@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Zlooz</string>
+<!--    <string name="call_notification_title">कॉल सक्रिय - %1$s</string>-->
+<!--    <string name="call_notification_text">आपकी कॉल अभी भी चल रही है। वापस जाने के लिए टैप करें।</string>-->
+<!--    <string name="call_notification_big_text">%1$s के साथ आपकी कॉल अभी भी सक्रिय है।</string>-->
+<!--    <string name="call_notification_summary">कॉल अभी भी चल रही है</string>-->
+<!--    <string name="call_notification_action">कॉल पर वापस जाएं</string>-->
+<!--    <string name="call_notification_ongoing_title">कॉल सक्रिय - चल रही कॉल</string>-->
+<!--    <string name="call_notification_ongoing_big_text">आपकी कॉल अभी भी सक्रिय है।\n\nऐप बंद करने पर भी कॉल जारी रहेगी।\nकॉल पर वापस जाने के लिए \'कॉल पर वापस जाएं\' या इस सूचना पर टैप करें।</string>-->
+<!--    <string name="call_in_progress">कॉल प्रगति में</string>-->
+<!--    <string name="tap_to_return">कॉल पर वापस जाने के लिए टैप करें</string>-->
+</resources>

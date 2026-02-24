@@ -1,0 +1,12 @@
+<resources>
+<!--    <string name="app_name">Zlooz</string>-->
+<!--    <string name="call_notification_title">通話中 - %1$s</string>-->
+<!--    <string name="call_notification_text">通話は継続中です。タップして戻る。</string>-->
+<!--    <string name="call_notification_big_text">%1$sとの通話は継続中です。</string>-->
+<!--    <string name="call_notification_summary">通話は継続中</string>-->
+<!--    <string name="call_notification_action">通話に戻る</string>-->
+<!--    <string name="call_notification_ongoing_title">通話中 - 進行中の通話</string>-->
+<!--    <string name="call_notification_ongoing_big_text">通話は継続中です。\n\nアプリを閉じても通話は継続します。\n\'通話に戻る\'またはこの通知をタップして通話を再開してください。</string>-->
+<!--    <string name="call_in_progress">通話中</string>-->
+<!--    <string name="tap_to_return">通話に戻るにはタップ</string>-->
+</resources>

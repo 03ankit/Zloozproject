@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Zlooz</string>
+<!--    <string name="call_notification_title">مكالمة نشطة - %1$s</string>-->
+<!--    <string name="call_notification_text">مكالمتك لا تزال قائمة. اضغط للعودة.</string>-->
+<!--    <string name="call_notification_big_text">مكالمتك مع %1$s لا تزال قائمة.</string>-->
+<!--    <string name="call_notification_summary">المكالمة لا تزال قائمة</string>-->
+<!--    <string name="call_notification_action">العودة إلى المكالمة</string>-->
+<!--    <string name="call_notification_ongoing_title">مكالمة نشطة - مكالمة جارية</string>-->
+<!--    <string name="call_notification_ongoing_big_text">مكالمتك لا تزال قائمة.\n\nتستمر المكالمة حتى إذا أغلقت التطبيق.\nاضغط على \'العودة إلى المكالمة\' أو على هذه الإشعار لإعادة فتح المكالمة.</string>-->
+<!--    <string name="call_in_progress">مكالمة قيد التقدم</string>-->
+<!--    <string name="tap_to_return">اضغط للعودة إلى المكالمة</string>-->
+</resources>

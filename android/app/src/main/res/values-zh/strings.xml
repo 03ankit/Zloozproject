@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Zlooz</string>
+<!--    <string name="call_notification_title">通话中 - %1$s</string>-->
+<!--    <string name="call_notification_text">您的通话仍在进行中。点击返回。</string>-->
+<!--    <string name="call_notification_big_text">您与 %1$s 的通话仍在进行中。</string>-->
+<!--    <string name="call_notification_summary">通话仍在进行中</string>-->
+<!--    <string name="call_notification_action">返回通话</string>-->
+<!--    <string name="call_notification_ongoing_title">通话中 - 进行中的通话</string>-->
+<!--    <string name="call_notification_ongoing_big_text">您的通话仍在进行中。\n\n即使您关闭应用程序，通话也会继续。\n点击\'返回通话\'或此通知以重新打开通话。</string>-->
+<!--    <string name="call_in_progress">通话中</string>-->
+<!--    <string name="tap_to_return">点击返回通话</string>-->
+</resources>

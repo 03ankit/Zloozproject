@@ -1,0 +1,9 @@
+export const SET_PHONE = 'SET_PHONE';
+export const SET_SETUP_PROFILE = 'SET_SETUP_PROFILE';
+export const SET_PROFILE = 'SET_PROFILE';
+export const MESSAGES = 'MESSAGES';
+export const ADD_USER ='ADD_USER';
+export const UPDATE_USER = 'UPDATE_USER';
+export const DELETE_USER = 'DELETE_USER';
+export const LOG_OUT = 'LOG_OUT';
+export const CLEAR_MESSAGES = 'CLEAR_MESSAGES';

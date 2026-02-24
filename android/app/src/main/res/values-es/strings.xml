@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Zlooz</string>
+<!--    <string name="call_notification_title">Llamada Activa - %1$s</string>-->
+<!--    <string name="call_notification_text">Tu llamada sigue activa. Toca para volver.</string>-->
+<!--    <string name="call_notification_big_text">Tu llamada con %1$s sigue activa.</string>-->
+<!--    <string name="call_notification_summary">La llamada sigue activa</string>-->
+<!--    <string name="call_notification_action">Volver a la llamada</string>-->
+<!--    <string name="call_notification_ongoing_title">Llamada Activa - Llamada en curso</string>-->
+<!--    <string name="call_notification_ongoing_big_text">Tu llamada sigue activa.\n\nLa llamada continúa incluso si cierras la aplicación.\nToca \'Volver a la llamada\' o esta notificación para reabrir la llamada.</string>-->
+<!--    <string name="call_in_progress">Llamada en curso</string>-->
+<!--    <string name="tap_to_return">Toca para volver a la llamada</string>-->
+</resources>

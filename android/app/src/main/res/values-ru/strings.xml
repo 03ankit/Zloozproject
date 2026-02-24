@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Zlooz</string>
+<!--    <string name="call_notification_title">Звонок активен - %1$s</string>-->
+<!--    <string name="call_notification_text">Ваш звонок все еще активен. Нажмите, чтобы вернуться.</string>-->
+<!--    <string name="call_notification_big_text">Ваш звонок с %1$s все еще активен.</string>-->
+<!--    <string name="call_notification_summary">Звонок все еще активен</string>-->
+<!--    <string name="call_notification_action">Вернуться к звонку</string>-->
+<!--    <string name="call_notification_ongoing_title">Звонок активен - Текущий звонок</string>-->
+<!--    <string name="call_notification_ongoing_big_text">Ваш звонок все еще активен.\n\nЗвонок продолжается, даже если вы закроете приложение.\nНажмите \'Вернуться к звонку\' или это уведомление, чтобы снова открыть звонок.</string>-->
+<!--    <string name="call_in_progress">Звонок идет</string>-->
+<!--    <string name="tap_to_return">Нажмите, чтобы вернуться к звонку</string>-->
+</resources>

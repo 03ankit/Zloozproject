@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Zlooz</string>
+<!--    <string name="call_notification_title">Anruf Aktiv - %1$s</string>-->
+<!--    <string name="call_notification_text">Ihr Anruf läuft noch. Tippen Sie, um zurückzukehren.</string>-->
+<!--    <string name="call_notification_big_text">Ihr Anruf mit %1$s läuft noch.</string>-->
+<!--    <string name="call_notification_summary">Anruf läuft noch</string>-->
+<!--    <string name="call_notification_action">Zum Anruf zurückkehren</string>-->
+<!--    <string name="call_notification_ongoing_title">Anruf Aktiv - Laufender Anruf</string>-->
+<!--    <string name="call_notification_ongoing_big_text">Ihr Anruf läuft noch.\n\nDer Anruf wird fortgesetzt, auch wenn Sie die App schließen.\nTippen Sie auf \'Zum Anruf zurückkehren\' oder auf diese Benachrichtigung, um den Anruf erneut zu öffnen.</string>-->
+<!--    <string name="call_in_progress">Anruf läuft</string>-->
+<!--    <string name="tap_to_return">Tippen Sie, um zum Anruf zurückzukehren</string>-->
+</resources>

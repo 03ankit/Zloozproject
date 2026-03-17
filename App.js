@@ -9,7 +9,7 @@ import { PersistGate } from 'redux-persist/integration/react';
 import { NavigationContainer } from '@react-navigation/native';
 
 import StackNavigator from './src/navigation/StackNavigator';
-import Bottomtab from './src/navigation/Bottomtab';
+//import { AppNavigator } from './src/navigation/navigator';
 
 import SplashScreen from 'react-native-splash-screen';
 
@@ -18,9 +18,10 @@ import { navigationRef } from './src/navigation/NavigationService';
 
 
 
+
 function RootApp() {
 
-  const isLoggedIn = useSelector(state => state.isLoggedIn);
+ 
 
   useEffect(() => {
     setTimeout(() => {
@@ -30,7 +31,7 @@ function RootApp() {
 
   return (
     <NavigationContainer ref={navigationRef}>
-      {isLoggedIn ? <Bottomtab /> : <StackNavigator />}
+      <StackNavigator />
     </NavigationContainer>
   );
 }

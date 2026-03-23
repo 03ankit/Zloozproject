@@ -90,6 +90,35 @@ If you're having issues getting the above steps to work, see the [Troubleshootin
 
 To learn more about React Native, take a look at the following resources:
 
+
+
+# Zlooz Project 🚀
+
+## 📌 Overview
+This is a React Native app that provides [your app purpose].
+
+## ✨ Features
+- Live tracking
+- Chat system
+- Authentication
+- Map integration
+
+## 🛠 Tech Stack
+- React Native
+- Node.js
+- Socket.io
+- MongoDB
+
+## 📸 Screenshots
+(Add images here)
+
+## ⚙️ Installation
+```bash
+git clone <repo>
+cd project
+npm install
+npm start
+
 - [React Native Website](https://reactnative.dev) - learn more about React Native.
 - [Getting Started](https://reactnative.dev/docs/environment-setup) - an **overview** of React Native and how setup your environment.
 - [Learn the Basics](https://reactnative.dev/docs/getting-started) - a **guided tour** of the React Native **basics**.
